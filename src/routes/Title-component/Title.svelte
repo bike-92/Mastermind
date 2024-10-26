@@ -7,10 +7,10 @@
         display: flex;
         flex-wrap: wrap;
         justify-content: center;
-        font-size: 50px;
+        font-size: 80px;
     }
 
     h1 {
-        font-family: 'Syne Mono';
+        font-family: 'Barrio';
     }
 </style>
